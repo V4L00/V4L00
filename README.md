@@ -1,6 +1,6 @@
 ## 👋 About Me
 - Hi, I’m @V4L00, a radio network engineer based in Switzerland
-- 👀 I’m interested in all new technoligies trends
+- 👀 I’m interested in all new technologies trends
 - 🌱 I’m currently learning W3 and Security
 
 ## 🛠 Skills
