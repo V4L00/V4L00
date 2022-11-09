@@ -1,7 +1,7 @@
 ## 👋 About Me
 - Hi, I’m @V4L00, a radio network engineer based in Switzerland
 - 👀 I’m interested in all new technologies trends.
-- 🌱 I’m currently learning into the data management
+- 🌱 I’m currently learning into the data, cloud and linux.
 
 ## 🛠 Skills
 - Ionic, Flutter, Angular, Web 
