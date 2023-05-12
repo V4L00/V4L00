@@ -1,5 +1,5 @@
 ## 👋 About Me
-- Hi, I’m @V4L00, a radio network engineer based in Switzerland
+- Hi, I’m @V4L00, a network engineer based in Switzerland
 - 👀 I’m interested in all new technologies trends.
 - 🌱 I’m currently learning networking, cloud and linux.
 
